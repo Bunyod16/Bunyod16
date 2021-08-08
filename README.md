@@ -1,6 +1,7 @@
-<p align="center">
-<!-- <img src="https://media.giphy.com/media/tHLc67Fj7A9iVFoNmB/giphy.gif"> -->
-<img src="https://badge42.herokuapp.com/api/stats/bshamsid" width="2000" height="400">
+<p align="right">
+ Hi, I'm Bunyod.
+
+<img src="https://badge42.herokuapp.com/api/stats/bshamsid">
 </p>
 
 <p align="center">Core Programme Progress:</p>
