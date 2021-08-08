@@ -1,11 +1,6 @@
 <p align="center">
 <img src="https://media.giphy.com/media/tHLc67Fj7A9iVFoNmB/giphy.gif">
 
-A high school graduate with a passion for coding.
-Working to gain skill sets for the industry.
-</p>
-
-<p align="center">
 Core Programme Progress: 
 </p>
 
