@@ -1,6 +1,6 @@
 <p align="center">
 <!-- <img src="https://media.giphy.com/media/tHLc67Fj7A9iVFoNmB/giphy.gif"> -->
-<img src="https://badge42.herokuapp.com/api/stats/bshamsid" width="400" height="400">
+<img src="https://badge42.herokuapp.com/api/stats/bshamsid" width="2000" height="400">
 </p>
 
 <p align="center">Core Programme Progress:</p>
