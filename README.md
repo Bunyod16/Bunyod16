@@ -1,6 +1,7 @@
 <p align="right"><img src="https://badge42.herokuapp.com/api/stats/bshamsid"></p>
 <p align="center">Core Programme Progress:</p>
-| [![appinha's GitHub stats](https://github-readme-stats.vercel.app/api?username=appinha&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/appinha?tab=repositories) | [![appinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=appinha&layout=compact&hide_border=true&theme=jolly)](https://github.com/appinha?tab=repositories) |
+
+| [![appinha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bunyod16&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/Bunyod16?tab=repositories) | [![appinha's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bunyod16&layout=compact&hide_border=true&theme=jolly)](https://github.com/Bunyod16?tab=repositories) |
 |:-:|:-:|
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/intra_id)](https://github.com/JaeSeoKim/badge42)
