@@ -1,13 +1,4 @@
-<p align="right">
- Hi, I'm Bunyod.
- a
- aa
- a
- 
- a
-
-<img src="https://badge42.herokuapp.com/api/stats/bshamsid">
-</p>
+<p align="right">Hello what is going on<img src="https://badge42.herokuapp.com/api/stats/bshamsid"></p>
 
 <p align="center">Core Programme Progress:</p>
 
