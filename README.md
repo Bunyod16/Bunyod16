@@ -3,7 +3,7 @@
 I'm Bunyod, a high school graduate with a passion for coding.
 
 Currently a cadet at 42 Kuala-Lumpur, working to gain skill sets for the industry.
-## Core Programme Progress: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Green_square.svg/1200px-Green_square.svg.png" width="20" height="20"> 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ <img src="https://thumbs.gfycat.com/HalfBreakableItalianbrownbear-size_restricted.gif" width="20" height="20">
+## Core Programme Progress: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Green_square.svg/1200px-Green_square.svg.png" width="20" height="20"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Green_square.svg/1200px-Green_square.svg.png" width="20" height="20"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Green_square.svg/1200px-Green_square.svg.png" width="20" height="20"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Green_square.svg/1200px-Green_square.svg.png" width="20" height="20"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Green_square.svg/1200px-Green_square.svg.png" width="20" height="20"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Green_square.svg/1200px-Green_square.svg.png" width="20" height="20"> <img src="https://thumbs.gfycat.com/HalfBreakableItalianbrownbear-size_restricted.gif" width="20" height="20">
 
 ## You may find me at:
 
