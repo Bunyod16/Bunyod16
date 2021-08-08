@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://media.giphy.com/media/tHLc67Fj7A9iVFoNmB/giphy.gif">
+<--<img src="https://media.giphy.com/media/tHLc67Fj7A9iVFoNmB/giphy.gif"> -->
+[![bshamsid's 42 stats](https://badge42.herokuapp.com/api/stats/bshamsid)](https://github.com/JaeSeoKim/badge42)
 </p>
 
 <p align="center">Core Programme Progress:</p>
