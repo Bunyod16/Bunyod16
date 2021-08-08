@@ -3,7 +3,7 @@
 I'm Bunyod, a high school graduate with a passion for coding.
 
 Currently a cadet at 42 Kuala-Lumpur, working to gain skill sets for the industry.
-### Core Programme Progress: 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fgifs%2Fsearch%2Fflashing%2Bcolors%253F%253F&psig=AOvVaw1c5Z8PYp7KKo9IbnYkB7tc&ust=1628511163734000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDGlv6yofICFQAAAAAdAAAAABAD">
+### Core Programme Progress: 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ <img src="https://thumbs.gfycat.com/FeistyGloriousIndianelephant-size_restricted.gif">
 
 ## You may find me at:
 
