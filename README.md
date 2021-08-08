@@ -1,7 +1,13 @@
 <p align="center"><img src="https://badge42.herokuapp.com/api/stats/bshamsid"></p>
+
+---
+
 <p>
 Hi, I'm Bunyod, a programmer with an untraditional approach to learning. Always looking for new challenges and interesting projects!
 </p>
+
+---
+
 | [![Bunyod's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bunyod16&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=vue-dark)](https://github.com/Bunyod16?tab=repositories) | [![Bunyod's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bunyod16&layout=compact&hide_border=true&theme=vue-dark)](https://github.com/Bunyod16?tab=repositories) |
 |:-:|:-:|
 
