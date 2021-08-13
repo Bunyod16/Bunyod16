@@ -3,7 +3,7 @@
 ---
 
 <p>
-<b>Hi, I'm Bunyod, a programmer with an untraditional approach to learning. Always looking for new challenges and interesting projects!</b>
+<b>Hi, I'm Bunyod, a programmer with an untraditional approach to education. Always looking for new challenges and interesting projects!</b>
 </p>
 
 ---
