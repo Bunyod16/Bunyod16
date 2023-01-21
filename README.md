@@ -3,7 +3,7 @@
 ---
 
 <p>
-<b>Hi, I'm Bunyod, a programmer with an untraditional approach to education. Always looking for new challenges and interesting projects!</b>
+<b>Hello, world! I'm Bunyod, a dude with a passion for coding, coffee, and all things tech. When I'm not buried in code, you can find me experimenting with new disastrous recipes in the kitchen or starting another raspberry pi project. Want to make something awesome? Message me!</b>
 </p>
 
 ---
