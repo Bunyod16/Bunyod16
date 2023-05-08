@@ -8,6 +8,9 @@
 
 ---
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 | [![Bunyod's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bunyod16&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=vue-dark)](https://github.com/Bunyod16?tab=repositories) | [![Bunyod's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bunyod16&layout=compact&hide_border=true&theme=vue-dark)](https://github.com/Bunyod16?tab=repositories) |
 |:-:|:-:|
 
