@@ -5,15 +5,11 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-186-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 154.3 kB Used in GitHub's Storage 
  > 
-> 🏆 380 Contributions in the Year 2023
+> 🏆 386 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -25,9 +21,9 @@
 
 ```text
 🌞 Morning                106 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-🌆 Daytime                1932 commits        █████████░░░░░░░░░░░░░░░░   36.94 % 
+🌆 Daytime                1932 commits        █████████░░░░░░░░░░░░░░░░   36.93 % 
 🌃 Evening                2372 commits        ███████████░░░░░░░░░░░░░░   45.35 % 
-🌙 Night                  820 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+🌙 Night                  821 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
 ```
 
 
@@ -57,5 +53,5 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/05/2023 20:39:09 UTC
+ Last Updated on 09/05/2023 20:48:50 UTC
 <!--END_SECTION:waka-->
