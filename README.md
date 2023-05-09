@@ -19,7 +19,7 @@
  > 
 > 🏆 380 Contributions in the Year 2023
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 39 Public Repositories 
  > 
@@ -29,42 +29,23 @@
 
 ```text
 🌞 Morning                106 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-🌆 Daytime                1932 commits        █████████░░░░░░░░░░░░░░░░   36.98 % 
-🌃 Evening                2372 commits        ███████████░░░░░░░░░░░░░░   45.40 % 
-🌙 Night                  815 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   1304 commits        ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
-Tuesday                  1554 commits        ███████░░░░░░░░░░░░░░░░░░   29.74 % 
-Wednesday                411 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-Thursday                 363 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-Friday                   604 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-Saturday                 256 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-Sunday                   733 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+🌆 Daytime                1932 commits        █████████░░░░░░░░░░░░░░░░   36.95 % 
+🌃 Evening                2372 commits        ███████████░░░░░░░░░░░░░░   45.37 % 
+🌙 Night                  818 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Kuala_Lumpur
-
 💬 Programming Languages: 
 TypeScript               0 secs              ███████████████░░░░░░░░░░   61.51 % 
 Other                    0 secs              █████████░░░░░░░░░░░░░░░░   35.22 % 
 Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 
-🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
-
 🐱‍💻 Projects: 
 42-ft_transendence       0 secs              ███████████████░░░░░░░░░░   61.51 % 
 leetcode-practice        0 secs              ██████████░░░░░░░░░░░░░░░   38.49 % 
-
-💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -79,12 +60,8 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/Bunyod16/Bunyod16/main/assets/bar_graph.png)
-
-
- Last Updated on 09/05/2023 19:47:51 UTC
+ Last Updated on 09/05/2023 20:14:45 UTC
 <!--END_SECTION:waka-->
 
 | [![Bunyod's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bunyod16&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=vue-dark)](https://github.com/Bunyod16?tab=repositories) | [![Bunyod's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bunyod16&layout=compact&hide_border=true&theme=vue-dark)](https://github.com/Bunyod16?tab=repositories) |
