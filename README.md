@@ -9,6 +9,82 @@
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-177-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 154.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 380 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 39 Public Repositories 
+ > 
+> 🔑 20 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                106 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+🌆 Daytime                1932 commits        █████████░░░░░░░░░░░░░░░░   36.98 % 
+🌃 Evening                2372 commits        ███████████░░░░░░░░░░░░░░   45.40 % 
+🌙 Night                  815 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   1304 commits        ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
+Tuesday                  1554 commits        ███████░░░░░░░░░░░░░░░░░░   29.74 % 
+Wednesday                411 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+Thursday                 363 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+Friday                   604 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+Saturday                 256 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+Sunday                   733 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kuala_Lumpur
+
+💬 Programming Languages: 
+TypeScript               0 secs              ███████████████░░░░░░░░░░   61.51 % 
+Other                    0 secs              █████████░░░░░░░░░░░░░░░░   35.22 % 
+Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+
+🔥 Editors: 
+VS Code                  0 secs              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+42-ft_transendence       0 secs              ███████████████░░░░░░░░░░   61.51 % 
+leetcode-practice        0 secs              ██████████░░░░░░░░░░░░░░░   38.49 % 
+
+💻 Operating System: 
+Mac                      0 secs              █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   31 repos            ████████████░░░░░░░░░░░░░   50.00 % 
+TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Bunyod16/Bunyod16/main/assets/bar_graph.png)
+
+
+ Last Updated on 09/05/2023 19:47:51 UTC
 <!--END_SECTION:waka-->
 
 | [![Bunyod's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bunyod16&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=vue-dark)](https://github.com/Bunyod16?tab=repositories) | [![Bunyod's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bunyod16&layout=compact&hide_border=true&theme=vue-dark)](https://github.com/Bunyod16?tab=repositories) |
