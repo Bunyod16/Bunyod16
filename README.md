@@ -31,11 +31,10 @@
 
 ```text
 💬 Programming Languages: 
-Python                   11 mins             █████████████████████████   99.42 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-kawasanku-front          11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -51,5 +50,5 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/07/2023 18:35:52 UTC
+ Last Updated on 03/07/2023 18:37:13 UTC
 <!--END_SECTION:waka-->
