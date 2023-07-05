@@ -31,10 +31,11 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   11 mins             █████████████████████░░░░   85.94 % 
+Bash                     1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+minswap_detect_pool      12 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -50,5 +51,5 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/07/2023 18:39:58 UTC
+ Last Updated on 05/07/2023 18:40:11 UTC
 <!--END_SECTION:waka-->
