@@ -1,5 +1,5 @@
 <p>
-<b>Hola! I'm Bunyod, a dude with a passion for coding, coffee, and all things tech. When I'm not buried in code, you can find me experimenting with new disastrous recipes in the kitchen or starting another raspberry pi project.</b>
+<b>Hola! I'm Bunyod, a dude with a passion for coding, coffee, and all things tech. When I'm not buried in code, you can find me brewing kombucha or starting another raspberry pi project.</b>
 </p>
 
 ---
