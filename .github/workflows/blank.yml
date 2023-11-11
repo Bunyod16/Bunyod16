@@ -21,4 +21,3 @@ jobs:
           SHOW_DAYS_OF_WEEK: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_TOTAL_CODE_TIME: "False"
-          LAYOUT: "SHOW_PROJECTS-SHOW_LANGUAGES-SHOW_COMMIT-SHOW_SHORT_INFO"
